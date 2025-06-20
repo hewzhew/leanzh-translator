@@ -34,7 +34,7 @@
       "properties": {
         "leanzh-translator.apiKey": {
           "type": "string",
-          "default": "***REMOVED***",
+          "default": "",
           "description": "您从 DeepSeek 官网获取的 API Key。"
         }
       }
